@@ -1,1 +1,1 @@
-{"name":"Jet Fuel Calculator","short_name":"FuelCalc","start_url":"/fuelcalc/","display":"standalone","background_color":"#ffffff","theme_color":"#42b883","lang":"en","scope":"/fuelcalc/"}
+{"name":"Jet Fuel Calculator","short_name":"FuelCalc","description":"A Calculator to balance jet fuel loading","start_url":"./","display":"standalone","background_color":"#ffffff","theme_color":"#42b883","lang":"en","scope":"./"}
